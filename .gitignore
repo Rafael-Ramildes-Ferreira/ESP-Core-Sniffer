@@ -6,3 +6,4 @@
 .vscode
 build
 src/build
+*.old
